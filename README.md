@@ -1,16 +1,28 @@
-## Hi there 👋
+```java
+class Rafael(){
+    string name = "Rafael Alves de Oliveira";
+    int age = 18;
+    string developer = "backend";
+    string now = "student";
 
-<!--
-**rafael019wi/rafael019wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    public void Schools(){
+        systemsDevelopmentTechnician = "complete";
+        highSchool = "complete";
+        university = "tryingToJoin";
+    }
 
-Here are some ideas to get you started:
+    public void skills(){
+        String[] languages = {"Java", "Python", "C#", "SQL"};
+        String[] languages  = {"Nodejs", "SpringBoot"};
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+
+
+
+
+
+```
+
+
+
