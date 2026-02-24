@@ -8,11 +8,11 @@ class Rafael(){
     public void Schools(){
         systemsDevelopmentTechnician = "complete";
         highSchool = "complete";
-        university = "tryingToJoin";
+        university = "IFSP - SJBV - computer Science ";
     }
 
     public void skills(){
-        String[] languages = {"Java", "Python", "C#", "SQL"};
+        String[] languages = {"Java", "Python", "C#", "SQL", "Kotlin", "JavaScript" };
         String[] languages  = {"Nodejs", "SpringBoot"};
     }
 
