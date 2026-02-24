@@ -8,7 +8,7 @@ class Rafael(){
     public void Schools(){
         systemsDevelopmentTechnician = "complete";
         highSchool = "complete";
-        university = "IFSP - SJBV - computer Science ";
+        university = "IFSP - SJBV - computer Science(1/8)";
     }
 
     public void skills(){
